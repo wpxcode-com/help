@@ -1,2 +1,2 @@
 # WordPress Coding Platform
-[WPXLib](@wpx/lib)
+[WPXLib](@wpx/index)
