@@ -5,9 +5,11 @@ This library is automatically generated when plugin or theme zip is created. You
 ## Features
 
 **Define feature**
+
 > wpx()->defineFeature(int $package, array $features);
 
 **Verify feature**
+
 > wpx()->hasFeature(string $feature): boolean;
 
 ```php
