@@ -1,2 +1,5 @@
 # WordPress Coding Platform
-[WPXLib](@wpx/index)
+
+> [WPXLib](@wpx/index)
+
+> [Git Integration](@git_integration)
